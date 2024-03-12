@@ -1,4 +1,5 @@
-# Simple Alfred workflow to play random songs from Apple Music Library on OSX
+# Play Random Music (Alfred Workflow)
+Simple Alfred workflow to play random songs from Apple Music Library on OSX
 
 ## Usage
 
